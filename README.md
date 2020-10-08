@@ -43,6 +43,26 @@
 
 물론 굳이 토픽을 안 붙이셔도 괜찮습니다. 하지만 작은 저장소가 초보자들에게는 오히려 더 도움 되지 않을까요?
 
+### 설정후에 카운터를 확인하세요!
+
+topic이 korean인 저장소의 갯수는
+10월 8일 기준 427개 였습니다.
+현재는
+<h2 id='counter'>잠시 기다리세요...</h2>
+<script>
+  async function getKoreanRepos() {
+    let searchString = `https://api.github.com/search/repositories?q=topic:korean`
+
+    let res = await fetch(searchString)
+    let data = await res.json()
+    let total = data.total_count
+    var elem = document.getElementById('counter');
+    elem.textContent = total;
+}
+getKoreanRepos()
+</script>
+개 입니다.
+아래와 같이 설정하시고 카운터가 늘어났는지 확인해 보세요!
 
 ## 프로젝트 토픽 설정 방법
 
