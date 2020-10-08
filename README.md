@@ -48,12 +48,12 @@
 
 ### 1. 프로젝트 About의 톱니바퀴 설정 버튼을 클릭
 
-![about](https://user-images.githubusercontent.com/12092302/95450508-58da0580-09a1-11eb-83b2-8ffe37830dee.png)
+![about](https://user-images.githubusercontent.com/12092302/95475144-e2e59680-09c0-11eb-9ab2-840718b9e954.png)
 
 
-### 2. topics에 korean를 입력후 저장
+### 2. topics에 korean 입력후 저장
 
-![topic](https://user-images.githubusercontent.com/12092302/95450518-5d9eb980-09a1-11eb-9166-16950cb6e422.png)
+![topic](https://user-images.githubusercontent.com/12092302/95475160-e5e08700-09c0-11eb-9f1d-f6caa99eb967.png)
 
 ---
 
