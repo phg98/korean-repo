@@ -46,13 +46,16 @@
 
 ## 프로젝트 토픽 설정 방법
 
-프로젝트 About의 톱니바퀴 설정 버튼을 클릭
+### 1. 프로젝트 About의 톱니바퀴 설정 버튼을 클릭
 
 ![about](https://user-images.githubusercontent.com/12092302/95450508-58da0580-09a1-11eb-83b2-8ffe37830dee.png)
 
-topics에 korean를 입력후 저장
+
+### 2. topics에 korean를 입력후 저장
 
 ![topic](https://user-images.githubusercontent.com/12092302/95450518-5d9eb980-09a1-11eb-9166-16950cb6e422.png)
+
+---
 
 ### 캠페인에 참여하면 어떤 이익이 있나요?
 
