@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+# 한글로 된 깃헙 저장소를 관리하시나요? 한글 깃헙 저장소에는 'korean-repo'라는 프로젝트 토픽을 붙여주세요!
 
-You can use the [editor on GitHub](https://github.com/phg98/korean-repos/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**한글날**을 맞아 작은 캠페인을 해보려고 합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+초보자들이 기여하려고 할 때 큰 두려움 중에 하나가 영어입니다.
+영어로 된 저장소들 보기만 해도 무섭지 않으신가요?
 
-### Markdown
+그래서 마음편한 한글 저장소(_프로젝트 설명 등이 한글로 되어있고, 이슈 관리도 한글로 되어있는 저장소_)를 찾기 위해 깃헙 검색에서 토픽으로 검색해 보면 
+![topic_korean](https://user-images.githubusercontent.com/12092302/95450487-54155180-09a1-11eb-86d2-3786035d9626.png)
+* topic:korean : 427개
+* topic:korea  : 114개
+* topic:hangul :  83개
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+으로 총 **624개**의 저장소가 있습니다. (10월 8일 기준)
 
-```markdown
-Syntax highlighted code block
+반면 사용자 검색을 해보면 거주지가 korea인 사람은 훨씬 많습니다.
+* location:korea : 33,660명
 
-# Header 1
-## Header 2
-### Header 3
+**33,660명**입니다. (10월 8일 기준) 
 
-- Bulleted
-- List
+즉 **한국 저장소중에 한글토픽으로 검색이 안되는 저장소 98% 정도**로 추정됩니다.
 
-1. Numbered
-2. List
+그래서, 검색이 안되는 수많은 한글 저장소가 있을것 같으니 이 저장소들에 한글 저장소임을 나타내는 토픽을 붙여주시면 검색이 용이할것 같습니다.
 
-**Bold** and _Italic_ and `Code` text
+마침 이제 한글날이니 의미도 있겠구요.
 
-[Link](url) and ![Image](src)
+그래서 **한글 저장소 관리자 분들께** 한글 저장소에는 **'korean-repo'라는 토픽을 붙여주세요**라는 요청을 드립니다.
+
+## 왜 'korean-repo' 인가?
+
+'korea', 'korean', 'hangul'은 기존에 이미 사용되고 있는 토픽이므로 한글 언어나 한국에 관련된 토픽일 것 같습니다. 
+
+이것들을 쓰면 원래 의미로 검색하려는 분들에게 민폐가 될 것 같습니다.
+
+그러니 새로운 토픽으로 하는 게 좋겠다고 생각하여 'korean-repo'가 어떨까 제안합니다.
+
+## 왜 이런 일을 하나요?
+
+이 캠페인은 어떠한 단체, 회사와도 관계가 없고 제가 개인적으로 하고 싶어서 하는 캠페인입니다. 
+
+큰 이유는 없습니다. 제가 찾기 힘들으니, 다른 분들도 힘들 것이라 생각했습니다.
+
+## '내 저장소는 너무 볼품없어'라고 생각하신다면
+
+물론 굳이 토픽을 안 붙이셔도 괜찮습니다. 하지만 작은 저장소가 초보자들에게는 오히려 더 도움 되지 않을까요?
+
+## 프로젝트 토픽 설정 방법
+
+프로젝트 About의 톱니바퀴 설정 버튼을 클릭
+
+![about](https://user-images.githubusercontent.com/12092302/95450508-58da0580-09a1-11eb-83b2-8ffe37830dee.png)
+
+topics에 korean-repo를 입력후 저장
+
+![topic](https://user-images.githubusercontent.com/12092302/95450518-5d9eb980-09a1-11eb-9166-16950cb6e422.png)
+
+## 캠페인에 참여하면 어떤 이익이 있나요?
+
+제가 특별히 드릴 것은 없고... 아래에 저장소를 링크해 주시면 이 페이지를 본 사람들이 많이 찾아주시지 않을까요...
+
+그리고 10월 말쯤에 결과를 정리해서 업뎃하겠습니다.
+
+# 캠페인에 참여하는 저장소 링크
+
+* [한글 저장소 찾아주기 캠페인 페이지](https://github.com/phg98/korean-repos) : 보고 계신 이 페이지 입니다.
+* [Hacktober Korea](https://github.com/phg98/hacktoberfestkorea) : 핵토버페스트 행사의 한국어 비공식 사이트입니다.
+* _링크를 추가하시려면 [여기](README.md)를 눌러주세요! 초보자분도 수정 가능합니다!_
+<!-- 첫 줄을 복사하여 중간쯤에 붙여넣고 내용을 수정해 주세요 -->
+<!-- 저장소 운영자 분들이니 초보자는 없으시겠죠. 혹시 초보자 이시라면 내용수정후 아래 'Propose Change'버튼 누르고 화면마다 녹색 버튼 누르면 됩니다. 아무 생각 하지 마시구요 -->
+<!-- 이 사이트는 핵토버페스트 행사와 무관하며 여기에 PR을 보내셔도 핵토버페스트에 카운트되지 않습니다. 유의하세요! -->
+
+긴 글 읽어주셔서 감사합니다!
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+이 문서를 수정하고 싶으시면 [여기](README.md)를 눌러 주세요.
+이 사이트에 문제가 있다거나 연락하고 싶으시다면 phg98@naver.com으로 메일을 보내주세요.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phg98/korean-repos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
