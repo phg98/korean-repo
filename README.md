@@ -105,6 +105,7 @@ getKoreanRepos()
 
 * [한국어 저장소 찾아주기 캠페인 페이지](https://github.com/phg98/korean-repo) : 보고 계신 이 페이지 입니다.
 * [Hacktober Korea](https://github.com/phg98/hacktoberfestkorea) : 핵토버페스트 행사의 한국어 비공식 사이트입니다.
+* [Redux 문서 한국어 번역](https://github.com/deminoth/redux) : Redux 공식문서의 한국어 버전입니다.
 * _링크를 추가하시려면 [여기](https://github.com/phg98/korean-repo/edit/main/README.md)를 눌러주세요! 초보자분도 수정 가능합니다!_
 <!-- 첫 줄을 복사하여 중간쯤에 붙여넣고 내용을 수정해 주세요 -->
 <!-- 저장소 운영자 분들이니 초보자는 없으시겠죠. 혹시 초보자 이시라면 내용수정후 아래 'Propose Change'버튼 누르고 화면마다 녹색 버튼 누르면 됩니다. 아무 생각 하지 마시구요 -->
