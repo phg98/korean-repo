@@ -117,7 +117,7 @@ getKoreanRepos()
 
 긴 글 읽어주셔서 감사합니다!
 
-```
+---
 
 이 문서를 수정하고 싶으시면 [여기](https://github.com/phg98/korean-repo/edit/main/README.md)를 눌러 주세요.
 이 사이트에 문제가 있다거나 연락하고 싶으시다면 phg98@naver.com으로 메일을 보내주세요.
